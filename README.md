@@ -1,2 +1,2 @@
 # TextControl.WindowsForms.PropertyBinding
-This sample shows how data binding in Windows Forms
+This sample shows data binding in Windows Forms
